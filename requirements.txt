@@ -1,0 +1,14 @@
+#matplotlib
+#sphinx
+#jupyter-book
+#sphinx-tabs
+
+pyspark
+pandas
+
+toree
+
+yaml
+jupyter-server-proxy
+
+
